@@ -13,4 +13,4 @@ StopCam is a computer vision system for detecting vehicles that fail to stop in 
 
 ## Authors Note:
 
-This code is very rough, it is questionable at best, but is fun to play with. Feel free to distribute, modify, or do with it as you please. You'll find some of the underlying technology that powers this really isn't the best. Just mess with it. 
+This code is very rough, it is questionable at best, but is fun to play with. Feel free to distribute, modify, or do with it as you please. You'll find some of the underlying technology that powers this really isn't the best. Just mess with it. I WILL NOT be updating this code, or continuing it. 
